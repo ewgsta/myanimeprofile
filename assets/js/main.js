@@ -80,4 +80,3 @@ async function renderArticles() {
             selectTab('nav_spotlight', 'tab_spotlight');
         }
     });
-});
